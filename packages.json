@@ -2,6 +2,6 @@
     {
         "package": "polars",
         "url": "https://github.com/pola-rs/r-polars",
-        "branch": "hello_r_universe"
+        "branch": "main"
     }
 ]
