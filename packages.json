@@ -10,6 +10,10 @@
         "branch": "next"
     },
     {
+        "package": "polars0",
+        "url": "https://github.com/rpolars/r-polars0"
+    },
+    {
         "package": "polarssql",
         "url": "https://github.com/rpolars/r-polarssql"
     }
